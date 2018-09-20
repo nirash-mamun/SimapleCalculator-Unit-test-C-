@@ -1,0 +1,7 @@
+C:\Users\mamun14290\Desktop\Attach file\c# tut\CsharpApp2\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.dll
+C:\Users\mamun14290\Desktop\Attach file\c# tut\CsharpApp2\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.pdb
+C:\Users\mamun14290\Desktop\Attach file\c# tut\CsharpApp2\SimpleCalculator.Test.Unit\bin\Debug\CalculatorApplication.exe
+C:\Users\mamun14290\Desktop\Attach file\c# tut\CsharpApp2\SimpleCalculator.Test.Unit\bin\Debug\CalculatorApplication.pdb
+C:\Users\mamun14290\Desktop\Attach file\c# tut\CsharpApp2\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\mamun14290\Desktop\Attach file\c# tut\CsharpApp2\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.dll
+C:\Users\mamun14290\Desktop\Attach file\c# tut\CsharpApp2\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.pdb
